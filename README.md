@@ -1,2 +1,4 @@
-# DJI-Mavic-3E-Basic-Combo-Enterprise-Drone-Compact-Mapping-Inspection-Workhorse
-https://dronevex.in/product/dji-mavic-3e-basic-combo-enterprise-drone/
+DJI Mavic 3E Basic Combo Enterprise Drone: Compact Mapping & Inspection Workhorse
+
+The DJI Mavic 3E Basic Combo is a compact enterprise drone designed for professional mapping, surveying, and inspection missions, combining a 4/3 CMOS 20MP wide camera with a mechanical shutter and a 56× hybrid zoom tele camera for detailed data capture. With up to 45 minutes of flight time, 21 m/s max speed, and support for an RTK module, it delivers centimeter-level accuracy while covering large areas efficiently. Omnidirectional obstacle sensing with APAS 5.0, O3 Enterprise transmission up to 15 km, and integration with DJI Pilot 2 and enterprise software make it a reliable tool for construction, utilities, public safety, and asset inspection teams.​
+Explore more: https://dronevex.in/product/dji-mavic-3e-basic-combo-enterprise-drone/
